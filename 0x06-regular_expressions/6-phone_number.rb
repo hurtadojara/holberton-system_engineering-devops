@@ -1,4 +1,4 @@
 #!/usr/bin/env ruby
-rex = /[H][o][l][b][e][r][t][o][n]/
+rex = /^\d{10}$/
 prex = ARGV[0].scan(rex).join
 puts prex
