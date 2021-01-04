@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# prints the username if it exists
+if [ "$#" -ne 1 ]; then
+    echo "USAGE: script.sh username"
+    exit 2
+fi
+id -un $1
