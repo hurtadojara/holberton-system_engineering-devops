@@ -4,4 +4,4 @@ if [ "$#" -ne 1 ]; then
     echo "USAGE: script.sh username"
     exit 2
 fi
-id -un $1
+sudo -u "$1" whoami
