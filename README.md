@@ -23,6 +23,4 @@ PURE DEVOPS, GREAT PROJECTS, BASED ON ADMINISTRATE SERVERS, AUTOMATE THINGS, NET
 
 <b>Holberton School - Colombia<b><br>
 </p>
-<p align="center">
-<b>June, 2020.<b>
-</p>
+
