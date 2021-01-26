@@ -20,6 +20,14 @@ PURE DEVOPS, GREAT PROJECTS, BASED ON ADMINISTRATE SERVERS, AUTOMATE THINGS, NET
 9|[0x07-networking_basics](./0x07-networking_basics)| Networking basics
 10|[0x08-networking_basics_2](./0x08-networking_basics_2)| Networking basics 2
 11|[0x09-web_infrastructure_design](./0x09-web_infrastructure_design)| Web infrastructure
+12|[0x12-web_stack_debugging_2](./0x12-web_stack_debugging_2)| Web Stack Debugging
+14|[0x13-firewall](./0x13-firewall)| FIREWALL
+13|[0x10-https_ssl](./00x10-https_ssl)| SSL
+14|[0x14-mysql](./0x14-mysql)| Mysql
+15|[0x0A-configuration_management](./0x0A-configuration_management)| Configuration management
+16|[0x0B-ssh](./0x0B-ssh)| SSH
+17|[0x0C-web_server](./0x0C-web_server)| web-server
+
 
 <b>Holberton School - Colombia<b><br>
 </p>
